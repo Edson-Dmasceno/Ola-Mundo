@@ -1,4 +1,4 @@
 # Ola-Mundo
-Primeiro repositório do curso de Git e Github
+Primeiro repositório do curso de **Git e Github**
 
-Repositorio criado durante uma aula do YouTube
+*Repositorio criado durante uma aula do YouTube*
